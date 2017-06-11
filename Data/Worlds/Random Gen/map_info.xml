@@ -1,0 +1,5 @@
+<MapInfo>
+  <property name="Name"		value="::Random Gen World::"/>
+	<property name="Modes"		value="SurvivalSP,SurvivalMP,Creative"/>
+	<property name="Description"	value="mmRandomGenSPDesc"/>
+</MapInfo>
